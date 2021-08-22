@@ -24,7 +24,8 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/oracle/oracle-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/photoshop/photoshop-plain.svg">
 </div>
-  ##
+ 
+  ###
  
 <div> 
   <a href="https://instagram.com/lucasvlombardi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
