@@ -24,7 +24,6 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/oracle/oracle-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/photoshop/photoshop-plain.svg">
 </div>
-  	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
   ##
  
 <div> 
